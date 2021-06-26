@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tasker</string>
+    <string name="hint_word">Task...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Task not saved because it is empty.</string>
+    <string name="clear_all_data">delete all</string>
+    <string name="tasks">Tasks</string>
+    <string name="save">save</string>
+    <string name="enter_task">Enter Task Here</string>
+</resources>
